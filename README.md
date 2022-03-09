@@ -1,5 +1,7 @@
 # sRouter
 Android组件化下的路由管理器，实现跨module跳转，路由拦截、跨平台等功能
+文档：
+https://juejin.cn/post/7072992272131817502
 
 注册路由：
 ```
