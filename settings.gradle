@@ -1,2 +1,5 @@
 rootProject.name = "srouter"
 include ':app'
+include ':router'
+include ':annotation'
+include ':compiler'
